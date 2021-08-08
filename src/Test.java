@@ -7,7 +7,7 @@ import java.util.Set;
 public class Test {
     public static void main(String[] args) {
         List list = new ArrayList();
-        List listAnimal2 = new ArrayList();
-        Date date = new Date();
+        List listAnimal4 = new ArrayList();
+        Date date4 = new Date();
     }
 }
