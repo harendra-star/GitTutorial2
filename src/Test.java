@@ -9,5 +9,9 @@ public class Test {
         List list = new ArrayList();
         List listAnimal4 = new ArrayList();
         Date date4 = new Date();
+        List listAnimal5 = new ArrayList();
+        Date date5 = new Date();
+        List listAnimal2 = new ArrayList();
+        Date date = new Date();
     }
 }
