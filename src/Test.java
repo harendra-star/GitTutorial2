@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class Test {
     public static void main(String[] args) {
-        Set set = new HashSet();
-        List list =  new ArrayList();
+        List list = new ArrayList();
+        List listAnimal2 = new ArrayList();
     }
 }
